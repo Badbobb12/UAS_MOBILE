@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651137733892",
+    "project_id": "mobilebob-b7094",
+    "storage_bucket": "mobilebob-b7094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651137733892:android:9589e02a49543e4b88ec51",
+        "android_client_info": {
+          "package_name": "com.example.fireflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD57UB2eJ9RY5vzBvz-GxCURMHskLWNp_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
